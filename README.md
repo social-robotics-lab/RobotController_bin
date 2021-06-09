@@ -6,7 +6,9 @@ RobotControllerの実行ファイル
 Sotaの中で以下を実行。
 ```
 git clone https://github.com/social-robotics-lab/RobotController_bin.git
-cd RobotController_bin/RobotController_lib
+cd RobotController_bin
+mkdir RobotController_lib
+cd RobotController_lib
 git clone https://github.com/vstoneofficial/SotaSample.git
 cp SotaSample/lib/* .
 rm -rf SotaSample/
