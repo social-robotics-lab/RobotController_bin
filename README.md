@@ -1,5 +1,5 @@
 # RobotController_bin
-This is a binary of RobotController.
+This is a binary of [RobotController](https://github.com/social-robotics-lab/RobotController).
 
 # Install
 Run the following commands in Sota.
